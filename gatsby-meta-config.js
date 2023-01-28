@@ -19,6 +19,7 @@ module.exports = {
     },
     social: {
       github: ``, // `https://github.com/irene1125`,
+      linkedIn: 'https://www.linkedin.com/in/jinhyeok-jeong-800871192',
       email: ``, // `seohyun0221@gmail.com`,
     },
   },
