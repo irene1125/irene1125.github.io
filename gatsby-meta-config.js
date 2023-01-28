@@ -18,9 +18,8 @@ module.exports = {
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {
-      github: ``, // `https://github.com/zoomKoding`,
-      linkedIn: ``, // `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
-      email: ``, // `zoomkoding@gmail.com`,
+      github: ``, // `https://github.com/irene1125`,
+      email: ``, // `seohyun0221@gmail.com`,
     },
   },
 
@@ -43,12 +42,30 @@ module.exports = {
       // ========================================================
       // ========================================================
       {
-        date: '2021.02 ~',
+        date: '2020.07 ~',
         activity: '개인 블로그 개발 및 운영',
         links: {
-          post: '/gatsby-starter-zoomkoding-introduction',
+          post: 'https://blog.naver.com/seohyun0221/222039482950',
           github: 'https://github.com/zoomkoding/zoomkoding-gatsby-blog',
-          demo: 'https://www.zoomkoding.com',
+          //demo: 'https://www.zoomkoding.com',
+        },
+      },
+      {
+        date: '2020.02 ~ 2021.06',
+        activity: '감성분석 연구 진행 및 논문 작성',
+        links: {
+          post: 'https://slow-soy-f91.notion.site/0781094d8dc34e45a4960794cb2f495c',
+        },
+      },
+      {
+        date: '2021.01',
+        activity: 'AWS 클라우드 컴퓨팅 전문가 과정 이수',
+      },
+      {
+        date: '2022.07 ~ 2022.12',
+        activity: 'SSAFY 8기 상반기 이수',
+        links: {
+          post: 'https://velog.io/@seohyun0221',
         },
       },
     ],
